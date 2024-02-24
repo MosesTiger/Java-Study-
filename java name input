@@ -17,3 +17,14 @@ class Demo {
         System.out.println("Age: "+age);        
     }
 }
+
+import  java.util.Scanner;
+
+public class Program {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        double input = sc.nextDouble();
+        System.out.println(input*15/100);
+        
+    }
+}
