@@ -1,3 +1,4 @@
 import java.util.Scanner;
 //To take input from the user, we first must import the corresponding class. That is done using the following line:
 // This line should be written at the very top of your code, before the class declaration.
+Scanner sc = new Scanner(System.in);
